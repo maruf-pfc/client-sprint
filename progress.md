@@ -2,10 +2,12 @@
 
 Tracking daily execution of the **client-sprint challenge**.
 
-## Day 1 — FlowInvoice
+## Day 1 — FlowInvoice ✅
 
-**Status:** 🔄 In Progress  
-**Type:** SaaS Landing Page (B2B)
+- **Status:** ✅ Completed
+- **Type:** SaaS Landing Page (B2B)
+- **Live:** [https://flowinvoice-jade.vercel.app](https://flowinvoice-jade.vercel.app)
+- **Repo:** [https://github.com/maruf-pfc/flowinvoice](https://github.com/maruf-pfc/flowinvoice)
 
 ### 🎯 Goal
 
@@ -13,31 +15,45 @@ Build a high-converting landing page with a waitlist system.
 
 ### ⚙️ Stack
 
-- Vite (React + TS)
-- Express / Bun
-- Supabase
-- Tailwind CSS (v4)
+- Next.js 16 (App Router + Turbopack)
+- Supabase (PostgreSQL)
+- Resend (Email API)
+- Tailwind CSS v4
 - shadcn/ui
+- React Hook Form + Zod
+- TypeScript
 
 ### 🧩 Tasks
 
 - [x] Design landing page structure
-- [ ] Implement UI
-- [ ] Setup Supabase
-- [ ] Connect waitlist form
-- [ ] Add success state + UX feedback
-- [ ] Deploy
+- [x] Implement premium UI (Linear/Vercel aesthetic)
+- [x] Setup Supabase (waitlist table + RLS)
+- [x] Connect waitlist form (Server Actions)
+- [x] Add success state + UX feedback (toast + form swap)
+- [x] Implement confirmation email via Resend
+- [x] Health check endpoint (`/api/health`)
+- [x] Deploy to Vercel
 
 ### 📝 Notes
 
-- .
+- Migrated from Vite + Express to a consolidated Next.js-only architecture
+- Removed the separate backend — Server Actions handle all mutations
+- Two waitlist entry points (Hero + Bottom CTA) for maximum conversion
+
+### 📸 Screenshot
+
+![FlowInvoice Landing Page](assets/flowinvoice.webp)
+
+---
 
 ## Day 2 — (Upcoming)
 
 **Status:** ⏳ Pending
 
+---
+
 ## Overall Progress
 
-- Completed: 0 / 30
-- In Progress: 1
+- Completed: 1 / 30
+- In Progress: 0
 - Remaining: 29

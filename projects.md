@@ -10,7 +10,7 @@ Each project is implemented in its own dedicated repository to simulate real-wor
 
 | Day | Project                         | Repository                                                                           | Status         |
 | --- | ------------------------------- | ------------------------------------------------------------------------------------ | -------------- |
-| 1   | FlowInvoice (SaaS Landing Page) | [https://github.com/maruf-pfc/flowinvoice](https://github.com/maruf-pfc/flowinvoice) | 🔄 In Progress (Vite + Express + Supabase) |
+| 1   | FlowInvoice (SaaS Landing Page) | [Repository](https://github.com/maruf-pfc/flowinvoice) · [Live Link](https://flowinvoice-jade.vercel.app) | ✅ Completed |
 | 2   | AI Chatbot Widget               | -                                                                                    | ⏳ Pending     |
 | 3   | Lead Scraper Automation         | -                                                                                    | ⏳ Pending     |
 | 4   | N8N CRM Enrichment              | -                                                                                    | ⏳ Pending     |

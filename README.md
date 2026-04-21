@@ -1,4 +1,4 @@
-# client-sprint
+# Client Sprint
 
 > 30 real client-style projects in 30 days  
 > Simulating real freelance work, deadlines, and client communication.

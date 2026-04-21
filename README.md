@@ -3,19 +3,33 @@
 > 30 real client-style projects in 30 days  
 > Simulating real freelance work, deadlines, and client communication.
 
-## 📌 Overview
+## 📌 What is this?
 
-This repository is a **30-day intensive build challenge** where each project is treated as a real client engagement.
+This is a **30-day intensive challenge** where I simulate real freelance client work.
 
-Instead of tutorial-style apps, every project is:
+Each project:
 
-- Based on real-world client problems (similar to Upwork briefs)
-- Built with production mindset (not just demos)
-- Designed to be portfolio-ready
-- Includes automation, AI, and modern tooling (N8N, APIs, etc.)
+- is treated like a real client engagement
+- includes requirements, feedback, and delivery
+- is built with a production mindset
+- is portfolio-ready (not tutorial projects)
 
-The goal is simple:  
-**Become job-ready and client-ready by building what the market actually pays for.**
+👉 All projects are built in **separate repositories** and tracked here.
+
+## 🎯 Goal
+
+Build real-world skills by working on problems that clients actually pay for.
+
+By the end of this sprint:
+
+- 30 production-style projects
+- strong portfolio for jobs & freelancing
+- hands-on experience with AI, automation, and modern tools
+
+## 🧭 Tracking
+
+- 📦 All projects → [`projects.md`](./projects.md)
+- 📈 Daily progress → [`progress.md`](./progress.md)
 
 ## 🚀 Projects
 

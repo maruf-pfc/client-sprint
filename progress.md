@@ -46,14 +46,33 @@ Build a high-converting landing page with a waitlist system.
 
 ---
 
-## Day 2 — (Upcoming)
+## Day 2 — BrightPeak (AI Chatbot Widget) 🔄
 
-**Status:** ⏳ Pending
+- **Status:** 🔄 In Progress
+- **Type:** SaaS Widget (Embeddable)
+- **Live:** [https://chatbot-embed-sdk-jade.vercel.app](https://chatbot-embed-sdk-jade.vercel.app)
+- **Repo:** [https://github.com/maruf-pfc/chatbot-embed-sdk](https://github.com/maruf-pfc/chatbot-embed-sdk)
+
+### 🎯 Goal
+
+
+### ⚙️ Stack
+
+
+### 🧩 Tasks
+
+
+### 📝 Notes
+
+
+### 📸 Screenshot
+
+![Chatbot Widget](assets/chatbot-embed-sdk.webp)
 
 ---
 
 ## Overall Progress
 
 - Completed: 1 / 30
-- In Progress: 0
-- Remaining: 29
+- In Progress: 1
+- Remaining: 28

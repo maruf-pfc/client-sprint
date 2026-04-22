@@ -11,7 +11,7 @@ Each project is implemented in its own dedicated repository to simulate real-wor
 | Day | Project                         | Repository                                                                           | Status         |
 | --- | ------------------------------- | ------------------------------------------------------------------------------------ | -------------- |
 | 1   | FlowInvoice (SaaS Landing Page) | [Repository](https://github.com/maruf-pfc/flowinvoice) · [Live Link](https://flowinvoice-jade.vercel.app) | ✅ Completed |
-| 2   | AI Chatbot Widget               | -                                                                                    | ⏳ Pending     |
+| 2   | AI Chatbot Widget               | [Repository](https://github.com/maruf-pfc/chatbot-embed-sdk) · [Live Link](https://chatbot-embed-sdk-jade.vercel.app) | 🔄 In Progress   |
 | 3   | Lead Scraper Automation         | -                                                                                    | ⏳ Pending     |
 | 4   | N8N CRM Enrichment              | -                                                                                    | ⏳ Pending     |
 | 5   | Zapier Alternative Clone        | -                                                                                    | ⏳ Pending     |
